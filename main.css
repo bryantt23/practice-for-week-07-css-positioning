@@ -45,8 +45,8 @@ body {
   left: 0;
   right: 0;
   top: 100px;
-  /* Fill these in
-  z-index: ;*/
+  z-index: -10;
+  /* Fill these in*/
 }
 
 #red-box {
@@ -63,10 +63,10 @@ body {
 #orange-box {
   background-color: #ffa500;
   position: sticky;
+  z-index: 1;
   /* Fill these in
     bottom: 0;
     left: 0;
     right: 0;
-    top: 0;
-    z-index: ;*/
+    top: 0;*/
 }
